@@ -6,6 +6,7 @@
 ## Word2Vec의 한계
 ![image](https://github.com/Naver-Boostcamp-AI-Tech-6th-NLP/Study_is_all_you_need/assets/71856506/019e74e6-b1aa-4c77-9502-3fdbaae7bf6d)
 - Word2Vec는 매우 빈번하게 자주 사용되는 단어(The, A 등)을 학습하는데 많은 시간을 씀
+- Word2Vec: 윈도우 사이즈를 기반으로 계산 → 전체적인 정보를 반영 못함
 - 위의 문단에서 The가 매우 빈번하게 등장, 학습의 불균형 발생
 
 ## GloVe Notation
